@@ -1,0 +1,8 @@
+www2.cs.put.poznan.pl,113,0,5640358
+wp.pl,58,0,901
+status.rapidssl.com,14,1162,6594
+ocsp.digicert.com,3,83,0
+detectportal.firefox.com,244,0,32
+cs.put.poznan.pl,22,0,729905
+www.wp.pl,40,0,0
+ocsp.pki.goog,2,150,926
